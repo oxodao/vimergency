@@ -24,7 +24,7 @@ set showtabline=2
 
 " Move between opened files and closing them
 nnoremap <S-j> :bprev<CR>
-nnoremap <S-h> :bnext<CR>
+nnoremap <S-k> :bnext<CR>
 nnoremap <S-x> :bdelete<CR>
 
 """ https://github.com/oxodao/vimergency
